@@ -1,8 +1,21 @@
-# Bio-image Analysis with Python course
-This repository contains training resources for Python beginners who want to dive into image processing with Python.
+Shield: [![CC BY 4.0][cc-by-shield](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by/4.0/)
+This work by [Robert Haase](https://github.com/haesleinhuepf) is licensed under a
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+# Bio-image Analysis with Python
+This repository contains training resources for Python beginners who want to dive into image processing with Python. 
+It specifically aims for users working with microscopy images in the life sciences.
 We start with python basics, dive into descriptive statistics for working with measurements and [matplotlib](https://matplotlib.org/) for plotting results.
 Furthermore, we will process images with [scikit-image](https://scikit-image.org/) and [clEsperanto](https://github.com/clEsperanto/pyclesperanto_prototype).
+Eventually, we will explore [napari](https://napari.org) for interactive image data analysis.
 
+## How to use this material
+You browse the material online for taking a quick look.
+If you want to do the exercises, it is recommended to download the whole repository, e.g. by hitting the `code` button in the top right corner and clicking on download.
+Unzip the downloaded file navigate inside the sub folders. 
+In order to execute code and do the exercises, you need to install conda, which will be explained in the first lesson.
+
+![](images/download.png)
 Every lesson ends with an exercise and it is recommended to do it before moving on to the next lesson.
 
 The material will develop between April and July 2021. Stay tuned for the later lessons.
@@ -14,7 +27,7 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
 ## Contents
 
 * Block 1 - Data structures
-  * Setting up a conda environment
+  * [Setting up a conda environment](conda_basics/01_conda_environments.md)
   * [Our first jupyter notebook](python_basics/01_our_first_juptyer_notebook.ipynb)
   * [Basic math in python](python_basics/02_Math_in_python.ipynb)
   * [Pitfalls when using notebooks](python_basics/03_Dont_try_this_at_home.ipynb)
@@ -33,7 +46,7 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
 * Block 8 - 3D image processing
 
 ## See also
-* [Juan Nunez-Iglesias' Using python fo science](https://github.com/jni/using-python-for-science)
+* [Using python fo science by Juan Nunez-Iglesias](https://github.com/jni/using-python-for-science)
 * [Python/Conda environments](https://mpicbg-scicomp.github.io/ipf_howtoguides/guides/Python_Conda_Environments)
 * [Scientific data analyis in Python, Biotec lecture](https://youtu.be/MOEPe9TGBK0)
 * [Managing Conda environments, online documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
