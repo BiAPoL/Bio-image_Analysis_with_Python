@@ -20,8 +20,11 @@ If you want to do the exercises, it is recommended to download the whole reposit
 Unzip the downloaded file navigate inside the sub folders. 
 In order to execute code and do the exercises, you need to install conda, which will be explained in the first lesson.
 
-![](images/download.png)
-Every lesson ends with an exercise and it is recommended to do it before moving on to the next lesson.
+<img src="images/download.png" width="200"/>
+
+This course explains everything in very detail. 
+Every lesson ends with an exercise and it is recommended to do it before moving on to the next lesson. 
+If you have python basics knowledge already, test yourself by just doing these exercises before starting with an advanced lesson.
 
 The material will develop between April and July 2021. Stay tuned for the later lessons.
 
@@ -51,7 +54,7 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
 * Block 8 - 3D image processing
 
 ## See also
-* [Using python fo science by Juan Nunez-Iglesias](https://github.com/jni/using-python-for-science)
+* [Using python for science by Juan Nunez-Iglesias](https://github.com/jni/using-python-for-science)
 * [Python/Conda environments](https://mpicbg-scicomp.github.io/ipf_howtoguides/guides/Python_Conda_Environments)
 * [Scientific data analyis in Python, Biotec lecture](https://youtu.be/MOEPe9TGBK0)
 * [Managing Conda environments, online documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
