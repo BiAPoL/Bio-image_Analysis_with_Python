@@ -11,8 +11,10 @@ This work is licensed by Robert Haase, [PoL Dresden](http://physics-of-life.tu-d
 This repository contains training resources for Python beginners who want to dive into image processing with Python. 
 It specifically aims for users working with microscopy images in the life sciences.
 We start with python basics, dive into descriptive statistics for working with measurements and [matplotlib](https://matplotlib.org/) for plotting results.
-Furthermore, we will process images with [scikit-image](https://scikit-image.org/) and [clEsperanto](https://github.com/clEsperanto/pyclesperanto_prototype).
+Furthermore, we will process images with [numpy](https://numpy.org), [scipy](https://www.scipy.org/), [scikit-image](https://scikit-image.org/) and [clEsperanto](https://github.com/clEsperanto/pyclesperanto_prototype).
 Eventually, we will explore [napari](https://napari.org) for interactive image data analysis.
+
+The material will develop between April and July 2021. Stay tuned for the later lessons.
 
 ## How to use this material
 You browse the material online for taking a quick look.
@@ -26,32 +28,44 @@ This course explains everything in very detail.
 Every lesson ends with an exercise and it is recommended to do it before moving on to the next lesson. 
 If you have python basics knowledge already, test yourself by just doing these exercises before starting with an advanced lesson.
 
-The material will develop between April and July 2021. Stay tuned for the later lessons.
-
 ## Feedback and support
 
-If you have any questions, please open a thread on [image.sc](https://image.sc), put a link to the exercise where you want to ask a question about and tag "@haesleinhuepf".
+If you have any questions, please open a thread on [image.sc](https://image.sc), put a link to the lesson or exercise you want to ask a question about and tag @haesleinhuepf.
 
 ## Contents
 
-* Block 1 - Data structures
+* Block 1 - Setting up your environment
   * [Setting up a conda environment](conda_basics/01_conda_environments.md)
   * [Our first jupyter notebook](python_basics/01_our_first_juptyer_notebook.ipynb)
+* Block 2 - Data structures
   * [Basic math in python](python_basics/02_Math_in_python.ipynb)
   * [Pitfalls when using notebooks](python_basics/03_Dont_try_this_at_home.ipynb)
   * [Basic types in python](python_basics/04_Basic_types.ipynb)
   * [Arrays, lists and tuples](python_basics/05_Arrays_lists_tuples.ipynb)
   * [Dictionaries and tables](python_basics/06_Dictionaries_and_tables.ipynb)
-* Block 2 - Algorithms
+* Block 3 - Algorithms
   * [The conditional, "if" statement](python_basics/07_Conditions.ipynb)
-  * Loops
-  * Functions
-* Block 3 - Image filtering
-* Block 4 - Image segmentation
-* Block 5 - Quantitative measurements
-* Block 6 - Processing folders 
-* Block 7 - Interactive image analysis
-* Block 8 - 3D image processing
+  * [Loops](python_basics/08_loops.ipynb)
+  * [Functions](python_basics/09_custom_functions.ipynb)
+  * [Libraries](python_basics/10_custom_libraries.ipynb) 
+  * [Plotting](python_basics/11_plotting.ipynb)
+* Block 4 - Image filtering
+  * Opening and visualizing images
+  * Filtering
+* Block 5 - Image segmentation
+  * Thresholding and labeling
+  * Spot detection and region growing
+* Block 6 - Quantitative measurements
+  * Region properties
+  * Working with tables
+* Block 7 - Processing folders
+* Block 8 - Interactive image analysis
+  * Napari
+* Block 9 - 3D image processing
+  * Scikit Image
+  * Scipy  
+  * clEsperanto
+* Block 10 - Machine learning for pixel classification
 
 ## See also
 * [Using python for science by Juan Nunez-Iglesias](https://github.com/jni/using-python-for-science)
