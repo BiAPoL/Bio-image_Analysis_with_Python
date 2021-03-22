@@ -49,8 +49,9 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
   * [Functions](python_basics/09_custom_functions.ipynb)
   * [Libraries](python_basics/10_custom_libraries.ipynb) 
   * [Plotting](python_basics/11_plotting.ipynb)
-* Block 4 - Image filtering
-  * Opening and visualizing images
+* Block 4 - Image processing
+  * [Introduction to image processing](python_basics/01_Introduction_to_image_processing.ipynb)
+  * [Working with images](python_basics/02_Working_with_images.ipynb)
   * Filtering
 * Block 5 - Image segmentation
   * Thresholding and labeling
@@ -66,6 +67,7 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
   * Scipy  
   * clEsperanto
 * Block 10 - Machine learning for pixel classification
+* Block 11 - Machine learning for object classification
 
 ## See also
 * [Using python for science by Juan Nunez-Iglesias](https://github.com/jni/using-python-for-science)
