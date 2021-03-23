@@ -53,21 +53,19 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
   * [Introduction to image processing](python_basics/01_Introduction_to_image_processing.ipynb)
   * [Working with images](python_basics/02_Working_with_images.ipynb)
   * Filtering
-* Block 5 - Image segmentation
   * Thresholding and labeling
+* Block 5 - Image segmentation
   * Spot detection and region growing
 * Block 6 - Quantitative measurements
   * Region properties
   * Working with tables
 * Block 7 - Processing folders
-* Block 8 - Interactive image analysis
-  * Napari
-* Block 9 - 3D image processing
+* Block 8 - 3D image processing
   * Scikit Image
   * Scipy  
   * clEsperanto
-* Block 10 - Machine learning for pixel classification
-* Block 11 - Machine learning for object classification
+* Block 9 - Machine learning for pixel classification
+* Block 10 - Machine learning for object classification
 
 ## See also
 * [Using python for science by Juan Nunez-Iglesias](https://github.com/jni/using-python-for-science)
