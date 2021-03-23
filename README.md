@@ -64,7 +64,9 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
   * Scikit Image
   * Scipy  
   * clEsperanto
-* Block 9 - Machine learning for pixel classification
+* Block 9 - Machine learning for image segmentation
+  * [CellPose](machine_learning/cellpose.ipynb)
+  * [StarDist](machine_learning/stardist.ipynb)
 * Block 10 - Machine learning for object classification
 
 ## See also
