@@ -50,8 +50,8 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
   * [Libraries](python_basics/10_custom_libraries.ipynb) 
   * [Plotting](python_basics/11_plotting.ipynb)
 * Block 4 - Image processing
-  * [Introduction to image processing](python_basics/01_Introduction_to_image_processing.ipynb)
-  * [Working with images](python_basics/02_Working_with_images.ipynb)
+  * [Introduction to image processing](image_processing/01_Introduction_to_image_processing.ipynb)
+  * [Working with images](image_processing/02_Working_with_images.ipynb)
   * Filtering
   * Thresholding and labeling
 * Block 5 - Image segmentation
