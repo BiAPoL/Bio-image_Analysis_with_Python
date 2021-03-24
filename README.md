@@ -9,7 +9,7 @@ This work is licensed by Robert Haase, [PoL Dresden](http://physics-of-life.tu-d
 
 # Bio-image Analysis with Python
 This repository contains training resources for Python beginners who want to dive into image processing with Python. 
-It specifically aims for users working with microscopy images in the life sciences.
+It specifically aims for students and scientists working with microscopy images in the life sciences.
 We start with python basics, dive into descriptive statistics for working with measurements and [matplotlib](https://matplotlib.org/) for plotting results.
 Furthermore, we will process images with [numpy](https://numpy.org), [scipy](https://www.scipy.org/), [scikit-image](https://scikit-image.org/) and [clEsperanto](https://github.com/clEsperanto/pyclesperanto_prototype).
 Eventually, we will explore [napari](https://napari.org) for interactive image data analysis.
