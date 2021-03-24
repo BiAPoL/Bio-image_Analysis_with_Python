@@ -17,7 +17,7 @@ Eventually, we will explore [napari](https://napari.org) for interactive image d
 The material will develop between April and July 2021. Stay tuned for the later lessons.
 
 ## How to use this material
-You browse the material online for taking a quick look.
+You can browse the material online for taking a quick look.
 If you want to do the exercises, it is recommended to download the whole repository, e.g. by hitting the `code` button in the top right corner and clicking on download.
 Unzip the downloaded file navigate inside the sub folders. 
 In order to execute code and do the exercises, you need to install conda, which will be explained in the first lesson.
