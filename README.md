@@ -37,6 +37,7 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
 * Block 1 - Setting up your environment
   * [Setting up a conda environment](conda_basics/01_conda_environments.md)
   * [Our first jupyter notebook](python_basics/01_our_first_juptyer_notebook.ipynb)
+  * [Trailer: bio-image analysis, machine learning and bio-statistics with python](image_processing/00_trailer.ipynb)
 * Block 2 - Data structures
   * [Basic math in python](python_basics/02_Math_in_python.ipynb)
   * [Pitfalls when using notebooks](python_basics/03_Dont_try_this_at_home.ipynb)
