@@ -35,24 +35,24 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
 ## Contents
 
 * Block 1 - Setting up your environment
-  * [Setting up a conda environment](conda_basics/01_conda_environments.md)
-  * [Our first jupyter notebook](python_basics/01_our_first_juptyer_notebook.ipynb)
-  * [Trailer: bio-image analysis, machine learning and bio-statistics with python](image_processing/00_trailer.ipynb)
+  * [Setting up a conda environment](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/conda_basics/01_conda_environments.md)
+  * [Our first jupyter notebook](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/01_our_first_juptyer_notebook.ipynb)
+  * [Trailer: bio-image analysis, machine learning and bio-statistics with python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/00_trailer.ipynb)
 * Block 2 - Data structures
-  * [Basic math in python](python_basics/02_Math_in_python.ipynb)
-  * [Pitfalls when using notebooks](python_basics/03_Dont_try_this_at_home.ipynb)
-  * [Basic types in python](python_basics/04_Basic_types.ipynb)
-  * [Arrays, lists and tuples](python_basics/05_Arrays_lists_tuples.ipynb)
-  * [Dictionaries and tables](python_basics/06_Dictionaries_and_tables.ipynb)
+  * [Basic math in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/02_Math_in_python.ipynb)
+  * [Pitfalls when using notebooks](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/03_Dont_try_this_at_home.ipynb)
+  * [Basic types in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/04_Basic_types.ipynb)
+  * [Arrays, lists and tuples](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/05_Arrays_lists_tuples.ipynb)
+  * [Dictionaries and tables](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/06_Dictionaries_and_tables.ipynb)
 * Block 3 - Algorithms
-  * [The conditional, "if" statement](python_basics/07_Conditions.ipynb)
-  * [Loops](python_basics/08_loops.ipynb)
-  * [Functions](python_basics/09_custom_functions.ipynb)
-  * [Libraries](python_basics/10_custom_libraries.ipynb) 
-  * [Plotting](python_basics/11_plotting.ipynb)
+  * [The conditional, "if" statement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/07_Conditions.ipynb)
+  * [Loops](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/08_loops.ipynb)
+  * [Functions](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/09_custom_functions.ipynb)
+  * [Libraries](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/10_custom_libraries.ipynb) 
+  * [Plotting](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/11_plotting.ipynb)
 * Block 4 - Image processing
-  * [Introduction to image processing](image_processing/01_Introduction_to_image_processing.ipynb)
-  * [Working with images](image_processing/02_Working_with_images.ipynb)
+  * [Introduction to image processing](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/01_Introduction_to_image_processing.ipynb)
+  * [Working with images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/02_Working_with_images.ipynb)
   * Filtering
   * Thresholding and labeling
 * Block 5 - Image segmentation
