@@ -58,22 +58,22 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
 * Block 5 - Image segmentation
   * [Thresholding](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/05_Thresholding.ipynb)
   * [Binary mask refinement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/06_binary_mask_refinement.ipynb)
-  * Labeling
+  * [Labeling](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/07_Labeling.ipynb)
   * Spot detection and region growing
-  * Refining masks
 * Block 6 - Quantitative measurements
   * Region properties
   * Working with tables
-* Block 7 - Processing folders
-* Block 8 - 3D image processing
+* Block 7 - Processing folders + 3D image processing
   * Scikit Image
   * Scipy  
   * clEsperanto
-* Block 9 - Machine learning for image segmentation
+* Block 11 - Method Comparison - Bland-Altman analysis
+* Block 12 - Machine learning for image segmentation
   * [Pixel classification using Scikit-learn](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/scikit_learn_random_forest_pixel_classifier.ipynb)
   * [Nuclei segmenation using CellPose](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/cellpose.ipynb)
   * [Nuclei segmenation using StarDist](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/stardist.ipynb)
-* Block 10 - Machine learning for object classification
+* Block 13 - Machine learning for object classification
+* Block 14 - Summary
 
 ## See also
 * [Python/Conda environments](https://mpicbg-scicomp.github.io/ipf_howtoguides/guides/Python_Conda_Environments)
