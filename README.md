@@ -53,10 +53,12 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
 * Block 4 - Image processing
   * [Introduction to image processing](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/01_Introduction_to_image_processing.ipynb)
   * [Working with images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/02_Working_with_images.ipynb)
-  * Filtering
-  * Thresholding and labeling
+  * [Multi-channel images and stacks](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/03_nd_image_data.ipynb)
+  * [Filtering](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/04_Filtering.ipynb)
 * Block 5 - Image segmentation
+  * Thresholding and labeling
   * Spot detection and region growing
+  * Refining masks
 * Block 6 - Quantitative measurements
   * Region properties
   * Working with tables
