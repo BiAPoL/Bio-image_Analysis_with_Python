@@ -56,7 +56,9 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
   * [Multi-channel images and stacks](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/03_nd_image_data.ipynb)
   * [Filtering](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/04_Filtering.ipynb)
 * Block 5 - Image segmentation
-  * Thresholding and labeling
+  * [Thresholding](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/05_Thresholding.ipynb)
+  * [Binary mask refinement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/06_binary_mask_refinement.ipynb)
+  * Labeling
   * Spot detection and region growing
   * Refining masks
 * Block 6 - Quantitative measurements
