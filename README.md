@@ -67,12 +67,16 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
   * Scikit Image
   * Scipy  
   * clEsperanto
-* Block 11 - Method Comparison - Bland-Altman analysis
-* Block 12 - Machine learning for image segmentation
+* Block 8 - Introduction to bio-statistics
+* Block 9 - Descriptive statistics
+* Block 10 - Hypothesis testing
+* Block 11 - Method Comparison 
+  * Bland-Altman analysis
+* Block 12 - Machine learning I
   * [Pixel classification using Scikit-learn](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/scikit_learn_random_forest_pixel_classifier.ipynb)
+* Block 13 - Machine learning II
   * [Nuclei segmenation using CellPose](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/cellpose.ipynb)
   * [Nuclei segmenation using StarDist](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/stardist.ipynb)
-* Block 13 - Machine learning for object classification
 * Block 14 - Summary
 
 ## See also
