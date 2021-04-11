@@ -7,12 +7,13 @@ This work is licensed by Robert Haase, [PoL Dresden](http://physics-of-life.tu-d
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-# Bio-image Analysis with Python
+# Bio-image Analysis, Programming, Bio-statistics and Machine Learning with Python
 This repository contains training resources for Python beginners who want to dive into image processing with Python. 
 It specifically aims for students and scientists working with microscopy images in the life sciences.
 We start with python basics, dive into descriptive statistics for working with measurements and [matplotlib](https://matplotlib.org/) for plotting results.
 Furthermore, we will process images with [numpy](https://numpy.org), [scipy](https://www.scipy.org/), [scikit-image](https://scikit-image.org/) and [clEsperanto](https://github.com/clEsperanto/pyclesperanto_prototype).
-Eventually, we will explore [napari](https://napari.org) for interactive image data analysis.
+We will explore [napari](https://napari.org) and [Fiji](https://fiji.sc) for interactive image data analysis. 
+Finally, we will use [scikit-learn](https://scikit-learn.org/stable/), [CellPose](https://github.com/MouseLand/cellpose) and [StarDist](https://github.com/stardist/stardist) to process images using machine learning techniques.
 
 The material will develop between April and July 2021. Stay tuned for the later lessons.
 
@@ -34,7 +35,8 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
 
 ## Contents
 
-* Block 1 - Setting up your environment
+* Block 1 - Introduction
+  * Introduction to bio-image analysis, programming and bio-statistics
   * [Setting up a conda environment](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/conda_basics/01_conda_environments.md)
   * [Our first jupyter notebook](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/01_our_first_juptyer_notebook.ipynb)
   * [Trailer: bio-image analysis, machine learning and bio-statistics with python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/00_trailer.ipynb)
@@ -49,34 +51,16 @@ If you have any questions, please open a thread on [image.sc](https://image.sc),
   * [Loops](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/08_loops.ipynb)
   * [Functions](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/09_custom_functions.ipynb)
   * [Libraries](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/10_custom_libraries.ipynb) 
-  * [Plotting](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/11_plotting.ipynb)
 * Block 4 - Image processing
-  * [Introduction to image processing](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/01_Introduction_to_image_processing.ipynb)
-  * [Working with images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/02_Working_with_images.ipynb)
-  * [Multi-channel images and stacks](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/03_nd_image_data.ipynb)
-  * [Filtering](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/04_Filtering.ipynb)
-* Block 5 - Image segmentation
-  * [Thresholding](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/05_Thresholding.ipynb)
-  * [Binary mask refinement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/06_binary_mask_refinement.ipynb)
-  * [Labeling](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/07_Labeling.ipynb)
-  * Spot detection and region growing
-* Block 6 - Quantitative measurements
-  * Region properties
-  * Working with tables
-* Block 7 - Processing folders + 3D image processing
-  * Scikit Image
-  * Scipy  
-  * clEsperanto
-* Block 8 - Introduction to bio-statistics
-* Block 9 - Descriptive statistics
+* Block 5 - Image segmentation + 3D Image Processing
+* Block 6 - Quantitative measurements, Processing folders
+* Block 7 - Introduction to Biostatistics
+* Block 8 - Descriptive statistics
+* Block 9 - Method Comparison - Bland-Altman analysis
 * Block 10 - Hypothesis testing
-* Block 11 - Method Comparison 
-  * Bland-Altman analysis
+* Block 11 - Big data and data visualization
 * Block 12 - Machine learning I
-  * [Pixel classification using Scikit-learn](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/scikit_learn_random_forest_pixel_classifier.ipynb)
 * Block 13 - Machine learning II
-  * [Nuclei segmenation using CellPose](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/cellpose.ipynb)
-  * [Nuclei segmenation using StarDist](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/stardist.ipynb)
 * Block 14 - Summary
 
 ## See also
