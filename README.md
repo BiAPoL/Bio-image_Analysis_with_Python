@@ -27,26 +27,28 @@ In order to execute code and do the exercises, you need to install conda, which 
 
 This course explains everything in very detail. 
 Every lesson ends with an exercise and it is recommended to do it before moving on to the next lesson. 
-If you have python basics knowledge already, test yourself by just doing these exercises before starting with an advanced lesson.
+If you have python basics knowledge already, test yourself by doing these exercises before starting with an advanced lesson.
 
 ## Feedback and support
 
-If you have any questions, please open a thread on [image.sc](https://image.sc), put a link to the lesson or exercise you want to ask a question about and tag @haesleinhuepf.
+If you have any questions, please use the anonymous etherpad (see email) or open a thread on [image.sc](https://image.sc), put a link to the lesson or exercise you want to ask a question about and tag @haesleinhuepf.
 
 ## Contents
 
 * Block 1 - Introduction
-  * Introduction to bio-image analysis, programming and bio-statistics
-  * [Setting up a conda environment](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/conda_basics/01_conda_environments.md)
+  * [Introduction to bio-image analysis, programming, bio-statistics and machine learning](https://cloudstore.zih.tu-dresden.de/index.php/s/2Xm4awQiQ4oYQSx)
+  * [Setting up a conda environment](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/conda_basics/01_conda_environments.md)
   * [Our first jupyter notebook](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/01_our_first_juptyer_notebook.ipynb)
   * [Trailer: bio-image analysis, machine learning and bio-statistics with python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/00_trailer.ipynb)
 * Block 2 - Data structures
+  * Introduction to Python data structures
   * [Basic math in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/02_Math_in_python.ipynb)
   * [Pitfalls when using notebooks](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/03_Dont_try_this_at_home.ipynb)
   * [Basic types in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/04_Basic_types.ipynb)
   * [Arrays, lists and tuples](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/05_Arrays_lists_tuples.ipynb)
   * [Dictionaries and tables](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/06_Dictionaries_and_tables.ipynb)
 * Block 3 - Algorithms
+  * Introduction to Python algorithms
   * [The conditional, "if" statement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/07_Conditions.ipynb)
   * [Loops](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/08_loops.ipynb)
   * [Functions](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/09_custom_functions.ipynb)
