@@ -7,7 +7,7 @@ This work is licensed by Robert Haase, [PoL Dresden](http://physics-of-life.tu-d
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-# Bio-image Analysis, Programming, Bio-statistics and Machine Learning with Python
+# Bio-image analysis, biostatistics, programming and machine learning for computational biology
 This repository contains training resources for Python beginners who want to dive into image processing with Python. 
 It specifically aims for students and scientists working with microscopy images in the life sciences.
 We start with python basics, dive into descriptive statistics for working with measurements and [matplotlib](https://matplotlib.org/) for plotting results.
