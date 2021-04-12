@@ -20,7 +20,7 @@ The material will develop between April and July 2021. Stay tuned for the later 
 ## How to use this material
 You can browse the material online for taking a quick look.
 If you want to do the exercises, it is recommended to download the whole repository, e.g. by hitting the `code` button in the top right corner and clicking on download.
-Unzip the downloaded file navigate inside the sub folders. 
+Unzip the downloaded zip-file and navigate inside the sub folders, e.g. using the command prompt. 
 In order to execute code and do the exercises, you need to install conda, which will be explained in the first lesson.
 
 <img src="images/download.png" width="200"/>
