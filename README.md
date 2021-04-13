@@ -36,7 +36,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 ## Contents
 
 * Block 1 - Introduction
-  * [Introduction to bio-image analysis, programming, bio-statistics and machine learning](https://cloudstore.zih.tu-dresden.de/index.php/s/2Xm4awQiQ4oYQSx)
+  * [Introduction to bio-image analysis, programming, bio-statistics and machine learning](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/00_Introduction_QBIA.pdf)
   * [Setting up a conda environment](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/conda_basics/01_conda_environments.md)
   * [Our first jupyter notebook](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/01_our_first_juptyer_notebook.ipynb)
   * [Trailer: bio-image analysis, machine learning and bio-statistics with python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/00_trailer.ipynb)
