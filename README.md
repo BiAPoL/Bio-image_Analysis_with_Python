@@ -66,6 +66,13 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 * Block 14 - Summary
 
 ## See also
+### Image Analysis
+* [Analyzing fluorescence microscopy images with ImageJ by Pete Bankhead](https://petebankhead.gitbooks.io/imagej-intro/content/)
+* [Basics of Image Processing and Analysis by Kota Miura](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
+* [Classic ImageJ training resources](https://imagej.nih.gov/ij/docs/examples/index.html)
+* [Bioimage Data Analysis Workflows edited by Kota Miura and Nataša Sladoje](https://link.springer.com/book/10.1007%2F978-3-030-22386-1)
+
+### Python
 * [Python/Conda environments](https://mpicbg-scicomp.github.io/ipf_howtoguides/guides/Python_Conda_Environments)
 * [Scientific data analyis in Python, Biotec lecture](https://youtu.be/MOEPe9TGBK0)
 * [Python for Microscopists, video series by Sreeni](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w)
