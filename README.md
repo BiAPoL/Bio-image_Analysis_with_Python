@@ -41,7 +41,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Our first jupyter notebook](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/01_our_first_juptyer_notebook.ipynb)
   * [Trailer: bio-image analysis, machine learning and bio-statistics with python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/00_trailer.ipynb)
 * Block 2 - Data structures
-  * Introduction to Python data structures
+  * [Introduction to Python data structures](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/00_Python_data_structures.pdf)
   * [Basic math in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/02_Math_in_python.ipynb)
   * [Pitfalls when using notebooks](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/03_Dont_try_this_at_home.ipynb)
   * [Basic types in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/04_Basic_types.ipynb)
