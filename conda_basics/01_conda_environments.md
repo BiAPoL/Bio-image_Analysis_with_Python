@@ -36,7 +36,7 @@ You can create a conda environment with this command:
 conda create ––name env_exercise_9
 ```
 
-In some projects, you may want to start using python right away. Thus, yuo can specify to install python in a given version to your new conda environment from the start:
+In some projects, you may want to start using python right away. Thus, you can specify to install python in a given version to your new conda environment from the start:
 ```
 conda create -n env_exercise_9 python=3.8
 ```
