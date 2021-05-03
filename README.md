@@ -57,7 +57,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Introduction to image filtering](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/01_Image_Filtering.pdf)
   * [Images in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/01_Introduction_to_image_processing.ipynb)
   * [Working with images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/02_Working_with_images.ipynb)
-  * [Multi-channel images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/03_nd_image_data.ipynb)
+  * [Multi-channel images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/03_multi_channel_image_data.ipynb)
   * [Filtering](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/04_Filtering.ipynb)
   * [Interactive visualization with napari](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/05_napari.ipynb)
 
