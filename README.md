@@ -66,7 +66,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Thresholding](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/07_Thresholding.ipynb)  
   * [Binary mask refinement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/08_binary_mask_refinement.ipynb)  
   * [Labeling](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/09_Labeling.ipynb) 
-  * [Homework: OpenCL Installation](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/01_opencl_installation.md)
+  * [Homework: OpenCL Installation](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/01_opencl_installation.md)
 * Block 6 - Quantitative measurements, Processing folders
 * Block 7 - Introduction to Biostatistics
 * Block 8 - Descriptive statistics
