@@ -59,9 +59,13 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Working with images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/02_Working_with_images.ipynb)
   * [Multi-channel images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/03_multi_channel_image_data.ipynb)
   * [Filtering](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/04_Filtering.ipynb)
+* Block 5 - Image segmentation
+  * Introduction to image segmentation
+  * [Image segmentation in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/06_Introduction_to_image_segmentation.ipynb)  
+  * [Thresholding](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/07_Thresholding.ipynb)  
+  * [Binary mask refinement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/08_binary_mask_refinement.ipynb)  
+  * [Labeling](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/09_Labeling.ipynb) 
   * [Interactive visualization with napari](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/05_napari.ipynb)
-
-* Block 5 - Image segmentation + 3D Image Processing
 * Block 6 - Quantitative measurements, Processing folders
 * Block 7 - Introduction to Biostatistics
 * Block 8 - Descriptive statistics
