@@ -61,11 +61,12 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Filtering](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/04_Filtering.ipynb)
 * Block 5 - Image segmentation
   * Introduction to image segmentation
+  * [Interactive visualization with napari](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/05_napari.ipynb)
   * [Image segmentation in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/06_Introduction_to_image_segmentation.ipynb)  
   * [Thresholding](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/07_Thresholding.ipynb)  
   * [Binary mask refinement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/08_binary_mask_refinement.ipynb)  
   * [Labeling](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/09_Labeling.ipynb) 
-  * [Interactive visualization with napari](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/05_napari.ipynb)
+  * [Homework: OpenCL Installation](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/01_opencl_installation.md)
 * Block 6 - Quantitative measurements, Processing folders
 * Block 7 - Introduction to Biostatistics
 * Block 8 - Descriptive statistics
