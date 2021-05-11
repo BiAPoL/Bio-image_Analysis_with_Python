@@ -60,7 +60,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Multi-channel images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/03_multi_channel_image_data.ipynb)
   * [Filtering](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/04_Filtering.ipynb)
 * Block 5 - Image segmentation
-  * Introduction to image segmentation
+  * [Introduction to image segmentation](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/07_Image_segmentation.pdf)
   * [Interactive visualization with napari](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/05_napari.ipynb)
   * [Image segmentation in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/06_Introduction_to_image_segmentation.ipynb)  
   * [Thresholding](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/07_Thresholding.ipynb)  
@@ -85,6 +85,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 * [Bioimage Data Analysis Workflows edited by Kota Miura and Nataša Sladoje](https://link.springer.com/book/10.1007%2F978-3-030-22386-1)
 
 ### Python
+* [Python cheat sheet](https://github.com/gto76/python-cheatsheet)
 * [Python/Conda environments](https://mpicbg-scicomp.github.io/ipf_howtoguides/guides/Python_Conda_Environments)
 * [Scientific data analyis in Python, Biotec lecture](https://youtu.be/MOEPe9TGBK0)
 * [Python for Microscopists, video series by Sreeni](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w)
