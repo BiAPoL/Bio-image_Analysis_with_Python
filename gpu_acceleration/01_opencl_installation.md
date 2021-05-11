@@ -9,11 +9,11 @@ To install it, follow these steps:
 * Download and unpack [Fiji](https://fiji.sc)
 * Start Fiji and run its update using the menu `Help > Update`
 
-![Image](images/install_fiji_menu.png)
+![Image](install_fiji_menu.png)
 
 * Click on "Manage update sites" and activate the _three_ updates sites "clij", "clij2" and "clijx-assistant".
 
-![Image](images/installation.png)
+![Image](installation.png)
 
 * Click on "Close"
 * Click on "Apply Changes"
@@ -21,7 +21,7 @@ To install it, follow these steps:
 
 Installation was successful if you find the CLIJx-Assistant starting point button in Fijis tool bar:
 
-![Image](images/installation_ok.png)
+![Image](installation_ok.png)
 
 ## OpenCL installation in Python
 For python, there exist a couple of image processing libraries using OpenCL. We will work with 
