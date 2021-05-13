@@ -52,6 +52,12 @@ In that way installed software libraries and tools cannot harm each other.
 
 ![](create_env.png)
 
+Furthermore, configure [conda-forge](https://conda-forge.org/) to receive the most-recent updates from the data science community:
+```
+conda config --add channels conda-forge 
+conda config --set channel_priority strict 
+```
+
 ## Step 3: Installing software tools and libraries
 We will use python mostly from [jupyter notebooks](https://www.jupyter.org). 
 Before we can do so, we need to install it. 
