@@ -67,7 +67,13 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Binary mask refinement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/08_binary_mask_refinement.ipynb)  
   * [Labeling](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/09_Labeling.ipynb) 
   * [Homework: OpenCL Installation](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/01_opencl_installation.md)
-* Block 6 - Quantitative measurements, Processing folders
+* Block 6 - Quantitative measurements, processing folders and 3D image processing
+  * Introduction to quantitative measurements
+  * [Quantitative measurements with skimage regionprops](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/11_quantitative_measurements.ipynb)
+  * [Quantitative measurements with skimage regionprops](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/12_process_folders.ipynb)
+  * [3D image processing](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/10_nd_image_data.ipynb)
+  * [GPU-accelerated image processing](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/)
+  * [Homework: automatic cell count](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/homework_automatic_cellcount.pdf)
 * Block 7 - Introduction to Biostatistics
 * Block 8 - Descriptive statistics
 * Block 9 - Method Comparison - Bland-Altman analysis
