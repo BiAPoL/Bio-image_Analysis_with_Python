@@ -67,8 +67,8 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Binary mask refinement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/08_binary_mask_refinement.ipynb)  
   * [Labeling](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/09_Labeling.ipynb) 
   * [Homework: OpenCL Installation](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/01_opencl_installation.md)
-* Block 6 - Quantitative measurements, processing folders and 3D image processing
-  * Introduction to quantitative measurements
+* Block 6 - GPU-accelerated image processing and quantitative measurements
+  * [Introduction to GPU-accelerated image processing and quantitative measurements](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/00_GPU_acceleration_Quantitatve_measurements.pdf)
   * [3D image processing](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/10_nd_image_data.ipynb)
   * [Why GPU-acceleration](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/03_why_GPU_acceleration.ipynb)
   * [GPU-accelerated image processing](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/02_clesperanto.ipynb)
