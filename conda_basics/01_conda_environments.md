@@ -11,8 +11,7 @@ See also
 ## Step 1: Install Conda
 Download and install conda, for example mini-conda 
 [for Windows](https://docs.conda.io/en/latest/miniconda.html#windows-installers) or 
-[for Linux](https://docs.conda.io/en/latest/miniconda.html#linux-installers). MacOS users please follow the instructions on [this page]
-[for MacOS](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html) and make sure you download the "bash" installer. 
+[for Linux](https://docs.conda.io/en/latest/miniconda.html#linux-installers). MacOS users please follow the instructions on [this page](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/macos.html) and make sure you download the "bash" installer. 
 
 For ease-of-use, it is recommended to add conda to the PATH variable during installtion, e.g. by checking this checkbox:
 
