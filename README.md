@@ -1,6 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed by Robert Haase, [PoL Dresden](http://physics-of-life.tu-dresden.de/) under a
+This work is licensed by Anna Poetsch, [Biotec Dresden](https://tu-dresden.de/cmcb/biotec/forschungsgruppen/poetsch) and Robert Haase, [PoL Dresden](http://physics-of-life.tu-dresden.de/bia) under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
@@ -76,6 +76,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Processing folders](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/12_process_folders.ipynb)
   * [Homework: automatic cell count](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/homework_automatic_cellcount.pdf)
 * Block 7 - Introduction to Biostatistics
+  * [Confidence intervals of a proportion](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats1.ipynb)
 * Block 8 - Descriptive statistics
 * Block 9 - Method Comparison - Bland-Altman analysis
 * Block 10 - Hypothesis testing
