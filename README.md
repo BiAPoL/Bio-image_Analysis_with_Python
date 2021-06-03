@@ -76,6 +76,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Processing folders](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/12_process_folders.ipynb)
   * [Homework: automatic cell count](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/homework_automatic_cellcount.pdf)
 * Block 7 - Introduction to Biostatistics
+  * [Introduction to Biostatistics](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Stats1_without_pictures.pdf)
   * [Confidence intervals of a proportion](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats1.ipynb)
 * Block 8 - Descriptive statistics
 * Block 9 - Method Comparison - Bland-Altman analysis
