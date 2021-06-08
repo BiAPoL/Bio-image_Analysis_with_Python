@@ -79,6 +79,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Introduction to Biostatistics](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Stats1_without_pictures.pdf)
   * [Confidence intervals of a proportion](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats1.ipynb)
 * Block 8 - Descriptive statistics
+  * [Descriptive statistics and distributions](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats2.ipynb)
 * Block 9 - Method Comparison - Bland-Altman analysis
 * Block 10 - Hypothesis testing
 * Block 11 - Big data and data visualization
