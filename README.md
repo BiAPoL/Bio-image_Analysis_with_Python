@@ -82,6 +82,10 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Lecture for descriptive statistics](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Stats2.pdf)
   * [Descriptive statistics and distributions](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats2.ipynb)
 * Block 9 - Method Comparison - Bland-Altman analysis
+  * [Method comparison studies](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Method_comparion_bland_altman.pdf)
+  * [Bland-Altman analysis](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Bland_Altman_analysis.ipynb)
+  * [Processing tabular data using pandas](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/processing_tables_with_pandas.ipynb)
+  * [Functional parameters in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/12_functional_parameters.ipynb)  
 * Block 10 - Hypothesis testing
 * Block 11 - Big data and data visualization
 * Block 12 - Machine learning I
