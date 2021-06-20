@@ -87,6 +87,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Processing tabular data using pandas](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/processing_tables_with_pandas.ipynb)
   * [Functional parameters in python](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/12_functional_parameters.ipynb)  
 * Block 10 - Hypothesis testing
+  * [Follow up: Handling NaNs in Pandas DataFrames](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Handling_NaNs_in_Pandas_DataFrames.ipynb)
 * Block 11 - Big data and data visualization
 * Block 12 - Machine learning I
 * Block 13 - Machine learning II
