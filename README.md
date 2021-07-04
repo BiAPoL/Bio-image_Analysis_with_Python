@@ -88,8 +88,14 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Functional parameters in python](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/12_functional_parameters.ipynb)  
 * Block 10 - Hypothesis testing
   * [Follow up: Handling NaNs in Pandas DataFrames](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Handling_NaNs_in_Pandas_DataFrames.ipynb)
+  * [Hypotheses in the statistical sense](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Stats3_without_pictures.pdf)
+  * [Testing statistics](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats3.ipynb)
 * Block 11 - Big data and data visualization
+  * [Non-parametric testing](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Stats4.pdf)
+  * [Nonparametric testing](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats4.ipynb)
 * Block 12 - Machine learning I
+  * [Introduction to Machine Learning](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/Machine_Learning_for_BioImage_Analysis.pdf)
+  * [Pixel classification using Scikit-learn](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/scikit_learn_random_forest_pixel_classifier.ipynb)
 * Block 13 - Machine learning II
 * Block 14 - Summary
 
