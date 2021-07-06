@@ -25,6 +25,8 @@ In order to execute code and do the exercises, you need to install conda, which 
 
 <img src="images/download.png" width="200"/>
 
+Instead of downloading this zip file, you can also use the command line tool git for downloading the files. It allows updating a local copy of this online repository but is also a bit more tricky to use. Check out the [Carpentries tutorial about git](https://swcarpentry.github.io/git-novice/) to find out more.
+
 This course explains everything in very detail. 
 Every lesson ends with an exercise and it is recommended to do it before moving on to the next lesson. 
 If you have python basics knowledge already, test yourself by doing these exercises before starting with an advanced lesson.
