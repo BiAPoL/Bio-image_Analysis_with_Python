@@ -100,6 +100,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Pixel classification using Scikit-learn](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/scikit_learn_random_forest_pixel_classifier.ipynb)
 * Block 13 - Machine learning II
 * Block 14 - Summary
+  * [Semester summary](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/99_BIA_Summary_2021.pdf)
 
 ## See also
 ### Image Analysis
