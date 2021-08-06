@@ -15,7 +15,7 @@ Furthermore, we will process images with [numpy](https://numpy.org), [scipy](htt
 We will explore [napari](https://napari.org) and [Fiji](https://fiji.sc) for interactive image data analysis. 
 Finally, we will use [scikit-learn](https://scikit-learn.org/stable/), [CellPose](https://github.com/MouseLand/cellpose) and [StarDist](https://github.com/stardist/stardist) to process images using machine learning techniques.
 
-The material will develop between April and July 2021. Stay tuned for the later lessons.
+As we are continuing the develop the material, old versions are saved as releases. For example, the material which was relevant for the summer semester 2021 at Biotec / CMCB its exam can be downloaded [here](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2021.08.03). 
 
 ## How to use this material
 You can browse the material online for taking a quick look.
