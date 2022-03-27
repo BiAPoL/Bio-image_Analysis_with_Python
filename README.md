@@ -15,7 +15,7 @@ Furthermore, we will process images with [numpy](https://numpy.org), [scipy](htt
 We will explore [napari](https://napari.org) and [Fiji](https://fiji.sc) for interactive image data analysis. 
 Finally, we will use [scikit-learn](https://scikit-learn.org/stable/), [CellPose](https://github.com/MouseLand/cellpose) and [StarDist](https://github.com/stardist/stardist) to process images using machine learning techniques.
 
-As we are continuing the develop the material, old versions are saved as releases. For example, the material which was relevant for the summer semester 2021 at Biotec / CMCB its exam can be downloaded [here](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2021.08.03). 
+The material will develop between April and July 2022. The materials from former years are linked below.
 
 ## How to use this material
 You can browse the material online for taking a quick look.
@@ -24,8 +24,6 @@ Unzip the downloaded zip-file and navigate inside the sub folders, e.g. using th
 In order to execute code and do the exercises, you need to install conda, which will be explained in the first lesson.
 
 <img src="images/download.png" width="200"/>
-
-Instead of downloading this zip file, you can also use the command line tool git for downloading the files. It allows updating a local copy of this online repository but is also a bit more tricky to use. Check out the [Carpentries tutorial about git](https://swcarpentry.github.io/git-novice/) to find out more.
 
 This course explains everything in very detail. 
 Every lesson ends with an exercise and it is recommended to do it before moving on to the next lesson. 
@@ -37,72 +35,37 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 
 ## Contents
 
-* Block 1 - Introduction
-  * [Introduction to bio-image analysis, programming, bio-statistics and machine learning](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/00_Introduction_QBIA.pdf)
-  * [Setting up a conda environment](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/conda_basics/01_conda_environments.md)
-  * [Our first jupyter notebook](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/01_our_first_juptyer_notebook.ipynb)
-  * [Trailer: bio-image analysis, machine learning and bio-statistics with python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/00_trailer.ipynb)
-* Block 2 - Data structures
-  * [Introduction to Python data structures](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/00_Python_data_structures.pdf)
-  * [Basic math in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/02_Math_in_python.ipynb)
-  * [Pitfalls when using notebooks](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/03_Dont_try_this_at_home.ipynb)
-  * [Basic types in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/04_Basic_types.ipynb)
-  * [Arrays, lists and tuples](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/05_Arrays_lists_tuples.ipynb)
-  * [Dictionaries and tables](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/06_Dictionaries_and_tables.ipynb)
-* Block 3 - Algorithms
-  * [Introduction to Python algorithms](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/00_Python_algorithms.pdf)
-  * [The conditional, "if" statement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/07_Conditions.ipynb)
-  * [Loops](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/08_loops.ipynb)
-  * [Functions](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/09_custom_functions.ipynb)
-  * [Libraries](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/10_custom_libraries.ipynb) 
-* Block 4 - Image processing
-  * [Introduction to image filtering](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/01_Image_Filtering.pdf)
-  * [Images in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/01_Introduction_to_image_processing.ipynb)
-  * [Working with images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/02_Working_with_images.ipynb)
-  * [Multi-channel images](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/03_multi_channel_image_data.ipynb)
-  * [Filtering](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/04_Filtering.ipynb)
-* Block 5 - Image segmentation
-  * [Introduction to image segmentation](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/07_Image_segmentation.pdf)
-  * [Interactive visualization with napari](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/05_napari.ipynb)
-  * [Image segmentation in python](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/06_Introduction_to_image_segmentation.ipynb)  
-  * [Thresholding](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/07_Thresholding.ipynb)  
-  * [Binary mask refinement](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/08_binary_mask_refinement.ipynb)  
-  * [Labeling](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/09_Labeling.ipynb) 
-  * [Homework: OpenCL Installation](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/01_opencl_installation.md)
-* Block 6 - GPU-accelerated image processing and quantitative measurements
-  * [Introduction to GPU-accelerated image processing and quantitative measurements](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/00_GPU_acceleration_Quantitatve_measurements.pdf)
-  * [3D image processing](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/10_nd_image_data.ipynb)
-  * [Why GPU-acceleration](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/03_why_GPU_acceleration.ipynb)
-  * [GPU-accelerated image processing](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/02_clesperanto.ipynb)
-  * [Quantitative measurements with skimage regionprops](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/11_quantitative_measurements.ipynb)
-  * [Processing folders](http://nbviewer.jupyter.org/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/12_process_folders.ipynb)
-  * [Homework: automatic cell count](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/gpu_acceleration/homework_automatic_cellcount.pdf)
-* Block 7 - Introduction to Biostatistics
-  * [Introduction to Biostatistics](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Stats1_without_pictures.pdf)
-  * [Confidence intervals of a proportion](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats1.ipynb)
-* Block 8 - Descriptive statistics
-  * [Lecture for descriptive statistics](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Stats2.pdf)
-  * [Descriptive statistics and distributions](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats2.ipynb)
-* Block 9 - Method Comparison - Bland-Altman analysis
-  * [Method comparison studies](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Method_comparion_bland_altman.pdf)
-  * [Bland-Altman analysis](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Bland_Altman_analysis.ipynb)
-  * [Processing tabular data using pandas](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/processing_tables_with_pandas.ipynb)
-  * [Functional parameters in python](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/python_basics/12_functional_parameters.ipynb)  
-* Block 10 - Hypothesis testing
-  * [Follow up: Handling NaNs in Pandas DataFrames](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Handling_NaNs_in_Pandas_DataFrames.ipynb)
-  * [Hypotheses in the statistical sense](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Stats3_without_pictures.pdf)
-  * [Testing statistics](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats3.ipynb)
-* Block 11 - Big data and data visualization
-  * [Non-parametric testing](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/Stats4.pdf)
-  * [Nonparametric testing](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/biostatistics/stats4.ipynb)
-* Block 12 - Machine learning I
-  * [Introduction to Machine Learning](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/Machine_Learning_for_BioImage_Analysis.pdf)
-  * [Pixel classification using Scikit-learn](http://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/machine_learning/scikit_learn_random_forest_pixel_classifier.ipynb)
-* Block 13 - Machine learning II
-* Block 14 - Summary
-  * [Semester summary](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/image_processing/99_BIA_Summary_2021.pdf)
+* Introduction (2022-Apr-05)
+  * Introduction to bio-image analysis, programming, bio-statistics and machine learning
+  * [Trailer](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/01_python_basics/00_trailer.ipynb)
+  * [Setting up your computer with conda](https://biapol.github.io/blog/johannes_mueller/anaconda_getting_started/)
+  * [Our first jupyter notebook](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/01_python_basics/01_our_first_juptyer_notebook.ipynb)
+  * [Math in Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/01_python_basics/02_Math_in_python.ipynb)
+  * [Basic types in Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/01_python_basics/03_Basic_types.ipynb)
+  
+* Python data structures + images (2022-Apr-12)
+* Python algorithms + introduction to image processing (2022-Apr-19)
+* Image filtering + image segmentation (2022-Apr-26)
+* Quantitative image analysis (2022-May-03)
+* Machine learning for bio-image analysis (2022-May-10)
+* Introduction to Biostatistics (2022-May-17)
+* Descriptive statistics (2022-May-24)
+* Method Comparison - Bland-Altman analysis (2022-May-31)
+* break
+* Hypothesis testing (2022-Jun-14)
+* Multiple comparisons and correlations (2022-Jun-21)
+* Big data, clustering, dimensionality reduction (2022-Jun-28)
+* Deep learning (2022-Jul-5)
+* Summary / exam preparation (2022-Jul-12)
 
 ## See also
+
+### Former & future lecture materials
+* [Bio-image Analysis, programming, bio-statistics and machine learning 2021](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/releases/tag/2021.08.03)
+* [Bio-image Analysis, programming, bio-statistics and machine learning 2020](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis_2020)
+* [Bio-image Analysis, ImageJ Macro programming 2019](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
+* [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)
+
 ### Image Analysis
 * [Analyzing fluorescence microscopy images with ImageJ by Pete Bankhead](https://petebankhead.gitbooks.io/imagej-intro/content/)
 * [Basics of Image Processing and Analysis by Kota Miura](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
