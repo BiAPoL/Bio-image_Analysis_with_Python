@@ -39,9 +39,9 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Introduction to bio-image analysis, programming, bio-statistics and machine learning](01_python_basics/Introduction_QBIA.pdf)
   * [Trailer](01_python_basics/00_trailer.ipynb)
   * [Setting up your computer with conda](https://biapol.github.io/blog/johannes_mueller/anaconda_getting_started/)
-  * [Our first jupyter notebook](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/01_python_basics/01_our_first_juptyer_notebook.ipynb)
-  * [Math in Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/01_python_basics/02_Math_in_python.ipynb)
-  * [Basic types in Python](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/blob/main/01_python_basics/03_Basic_types.ipynb)
+  * [Our first jupyter notebook](01_python_basics/01_our_first_juptyer_notebook.ipynb)
+  * [Math in Python](01_python_basics/02_Math_in_python.ipynb)
+  * [Basic types in Python](01_python_basics/03_Basic_types.ipynb)
   
 * Python data structures + images (2022-Apr-12)
 * Python algorithms + introduction to image processing (2022-Apr-19)
