@@ -36,14 +36,24 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 ## Contents
 
 * Introduction (2022-Apr-05)
-  * [Introduction to bio-image analysis, programming, bio-statistics and machine learning](01_python_basics/Introduction_QBIA.pdf)
+  * [Introduction to bio-image analysis, programming, bio-statistics and machine learning (slides)](01_python_basics/Introduction_QBIA.pdf)
   * [Trailer](01_python_basics/00_trailer.ipynb)
   * [Setting up your computer with conda](https://biapol.github.io/blog/johannes_mueller/anaconda_getting_started/)
   * [Our first jupyter notebook](01_python_basics/01_our_first_juptyer_notebook.ipynb)
   * [Math in Python](01_python_basics/02_Math_in_python.ipynb)
   * [Basic types in Python](01_python_basics/03_Basic_types.ipynb)
   
-* Python data structures + images (2022-Apr-12)
+* Python data structures (2022-Apr-12)
+  * [Python data structures (slides)](02_python_data_structures/Python_data_structures.pdf)
+  * [Don't try this at home](02_python_data_structures/04_Dont_try_this_at_home.ipynb)
+  * [Lists and tuples](02_python_data_structures/05_lists_tuples.ipynb)
+  * [Cropping lists](02_python_data_structures/05a_cropping_lists.ipynb)
+  * [Sorting lists](02_python_data_structures/05b_sorting_lists.ipynb)
+  * [Dictionaries and tables](02_python_data_structures/06_Dictionaries_and_tables.ipynb)
+  * [Masking](02_python_data_structures/08_masking.ipynb)
+  * [Loading and visualizing images](02_python_data_structures/09_Working_with_images.ipynb)
+  * [Cropping images](02_python_data_structures/10_Cropping_images.ipynb)
+
 * Python algorithms + introduction to image processing (2022-Apr-19)
 * Image filtering + image segmentation (2022-Apr-26)
 * Quantitative image analysis (2022-May-03)
