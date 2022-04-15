@@ -54,8 +54,14 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Loading and visualizing images](02_python_data_structures/09_Working_with_images.ipynb)
   * [Cropping images](02_python_data_structures/10_Cropping_images.ipynb)
 
-* Python algorithms + introduction to image processing (2022-Apr-19)
-* Image filtering + image segmentation (2022-Apr-26)
+* Python algorithms (2022-Apr-19)
+  * [Python algorithms (slides)](03_python_algorithms/Python_algorithms.pdf)
+  * [Conditions](03_python_algorithms/07_Conditions.ipynb)
+  * [Loops](03_python_algorithms/08_loops.ipynb)
+  * [Custom functions](03_python_algorithms/09_custom_functions.ipynb)
+  * [Custom libraries](03_python_algorithms/10_custom_libraries.ipynb)
+  
+* Introduction to image filtering + image segmentation (2022-Apr-26)
 * Quantitative image analysis (2022-May-03)
 * Machine learning for bio-image analysis (2022-May-10)
 * Introduction to Biostatistics (2022-May-17)
