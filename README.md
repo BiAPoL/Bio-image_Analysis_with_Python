@@ -1,6 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed by Anna Poetsch, [Biotec Dresden](https://tu-dresden.de/cmcb/biotec/forschungsgruppen/poetsch) and Robert Haase, [PoL Dresden](http://physics-of-life.tu-dresden.de/bia) under a
+This work is licensed by Anna Poetsch, [Biotec Dresden](https://tu-dresden.de/cmcb/biotec/forschungsgruppen/poetsch), Marcelo Leomil Zoccoler and Robert Haase, [PoL Dresden](http://physics-of-life.tu-dresden.de/bia) under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
