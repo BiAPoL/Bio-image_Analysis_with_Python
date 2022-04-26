@@ -61,7 +61,16 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Custom functions](03_python_algorithms/09_custom_functions.ipynb)
   * [Custom libraries](03_python_algorithms/10_custom_libraries.ipynb)
   
-* Introduction to image filtering + image segmentation (2022-Apr-26)
+* Introduction to image visualization, processing and filtering (2022-Apr-26)
+  * [Image Processing and Filtering (slides)](04_image_processing_and_filters/Image_Processing_and_Filtering.pdf)
+  * [Napari Introduction](04_image_processing_and_filters/1_Napari_introduction.ipynb)
+  * [Histogram](04_image_processing_and_filters/2_Histogram.ipynb)
+  * [Brightness and Contrast](04_image_processing_and_filters/3_Brightness_and_Contrast.ipynb)
+  * [Binarization](04_image_processing_and_filters/4_Binarization.ipynb)
+  * [Image Filters](04_image_processing_and_filters/5_Image_Filters.ipynb)
+  * [Morphological Operations](04_image_processing_and_filters/6_Morphological_operations.ipynb)
+
+
 * Quantitative image analysis (2022-May-03)
 * Machine learning for bio-image analysis (2022-May-10)
 * Introduction to Biostatistics (2022-May-17)
