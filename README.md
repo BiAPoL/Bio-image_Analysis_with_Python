@@ -73,6 +73,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 
 * Quantitative image analysis (2022-May-03)
   * [Thresholding and feature extraction (slides)](05_feature_extraction/Feature_extraction.pdf)
+  * [Plotting data with Python](05_feature_extraction/00_plotting_in_python.ipynb)
   * [Thresholding and plotting](05_feature_extraction/01_thresholding.ipynb)
   * [Thresholding and noise](05_feature_extraction/02_thresholding_and_noise.ipynb)
   * [Otsu thresholding](05_feature_extraction/03_Otsu_threshold.ipynb)
