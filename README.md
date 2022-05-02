@@ -1,6 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed by Anna Poetsch, [Biotec Dresden](https://tu-dresden.de/cmcb/biotec/forschungsgruppen/poetsch), Marcelo Leomil Zoccoler and Robert Haase, [PoL Dresden](http://physics-of-life.tu-dresden.de/bia) under a
+This work is licensed by Anna Poetsch, [Biotec Dresden](https://tu-dresden.de/cmcb/biotec/forschungsgruppen/poetsch), Marcelo Leomil Zoccoler, Johannes Richard Müller and Robert Haase, [PoL Dresden](http://physics-of-life.tu-dresden.de/bia) under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
@@ -72,6 +72,12 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 
 
 * Quantitative image analysis (2022-May-03)
+  * [Thresholding and feature extraction (slides)](05_feature_extraction/Feature_extraction.pdf)
+  * [Thresholding and plotting](05_feature_extraction/01_thresholding.ipynb)
+  * [Thresholding and noise](05_feature_extraction/02_thresholding_and_noise.ipynb)
+  * [Otsu thresholding](05_feature_extraction/03_Otsu_threshold.ipynb)
+  * [Feature extraction](05_feature_extraction/04_feature_extraction.ipynb)
+  * [Feature extraction and thresholds](05_feature_extraction/05_feature_extraction_and_thresholds.ipynb)
 * Machine learning for bio-image analysis (2022-May-10)
 * Introduction to Biostatistics (2022-May-17)
 * Descriptive statistics (2022-May-24)
