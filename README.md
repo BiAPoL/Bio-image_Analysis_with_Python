@@ -82,6 +82,7 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 * Excursion to the Napari Workshop at the Images to Knowledge (I2K) conference 2022 (2022-May-10)
   * [Workshop website](https://github.com/haesleinhuepf/I2K2022-napari-workshop) 
 * Introduction to Biostatistics (2022-May-17)
+  * [Confidence intervals](06_biostatistics_introduction/stats1.ipynb)
 * Descriptive statistics + method comparison (2022-May-24)
 * Machine learning for bio-image analysis (2022-May-31)
 * break
