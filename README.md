@@ -84,6 +84,12 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 * Introduction to Biostatistics (2022-May-17)
   * [Confidence intervals](06_biostatistics_introduction/stats1.ipynb)
 * Descriptive statistics + method comparison (2022-May-24)
+  * [Descriptive statistics (slides)](07_descriptive_statistics/Descriptive_Statistics.pdf)
+  * [Basic descriptive statistics](07_descriptive_statistics/01_basic_descriptive_statistics.ipynb)
+  * [Working with Pandas DataFrames](07_descriptive_statistics/02_introduction_dataframes.ipynb)
+  * [Descriptive statistics of labeled images](07_descriptive_statistics/03_descriptive_statistics_label_images.ipynb)
+  * [Bland-Altman analysis](07_descriptive_statistics/04_Bland_altman_analysis.ipynb)
+  * [Preparation for next session: Install devbio-napari](https://www.napari-hub.org/plugins/devbio-napari#installation)
 * Machine learning for bio-image analysis (2022-May-31)
 * break
 * Hypothesis testing (2022-Jun-14)
