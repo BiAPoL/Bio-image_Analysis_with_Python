@@ -91,6 +91,10 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Bland-Altman analysis](07_descriptive_statistics/04_Bland_altman_analysis.ipynb)
   * [Preparation for next session: Install devbio-napari](https://www.napari-hub.org/plugins/devbio-napari#installation)
 * Machine learning for bio-image analysis (2022-May-31)
+  * [Machine Learning for Pixel and Object Classification (slides)](08_machine_learning/Machine_Learning_for_BioImage_Analysis.pdf)
+  * [Scikit-learn for object classification](08_machine_learning/01_supervised_machine_learning.ipynb)
+  * [Scikit-learn based Pixel classification](08_machine_learning/02_scikit_learn_random_forest_pixel_classifier.ipynb)
+  * [Accelerate Pixel and Object Classification](08_machine_learning/03_apoc_object_segmenter.ipynb)
 * break
 * Hypothesis testing (2022-Jun-14)
 * Multiple comparisons and correlations (2022-Jun-21)
