@@ -97,10 +97,20 @@ If you have any questions, please use the anonymous etherpad (see email) or open
   * [Accelerate Pixel and Object Classification](08_machine_learning/03_apoc_object_segmenter.ipynb)
 * break
 * Hypothesis testing (2022-Jun-14)
+  * [Distributions (slides)](09_hypothesis_testing/Stats2.pdf)
+  * [Hypothesis testing (slides)](09_hypothesis_testing/Stats3.pdf)
+  * [Non-parametric testing](09_hypothesis_testing/stats4.ipynb)
 * Multiple comparisons and correlations (2022-Jun-21)
+  * [Correlation (slides)](10_correlation_dim_reduction/Stats5.pdf)
+  * [Correlation](10_correlation_dim_reduction/Correlations.ipynb)
 * Big data, clustering, dimensionality reduction (2022-Jun-28)
+  * [Dimensionality reduction (slides)](10_correlation_dim_reduction/Stats_dimred.pdf)
+  * [PCA and UMAPs](10_correlation_dim_reduction/PCA_UMAP.ipynb)
 * Deep learning (2022-Jul-5)
+  * [Image Restoration](11_deep_learning/01-Image-Restoration.ipynb)
+  * [Image Segmentation](11_deep_learning/02-Image-Semantic-Segmentation.ipynb)
 * Summary / exam preparation (2022-Jul-12)
+  * [Programming / Bio-image Analysis / Machine Learning](12_summary/BIA_Summary_2022.pdf)
 
 ## See also
 
