@@ -1,6 +1,6 @@
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed by Anna Poetsch, [Biotec Dresden](https://tu-dresden.de/cmcb/biotec/forschungsgruppen/poetsch), Marcelo Leomil Zoccoler, Johannes Richard Müller and Robert Haase, [PoL Dresden](http://physics-of-life.tu-dresden.de/bia) under a
+This work is licensed by Anna Poetsch, [Biotec Dresden](https://tu-dresden.de/cmcb/biotec/forschungsgruppen/poetsch) and Robert Haase, [PoL Dresden](http://physics-of-life.tu-dresden.de/bia) under a
 [Creative Commons Attribution 4.0 International License][cc-by].
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
@@ -10,12 +10,11 @@ This work is licensed by Anna Poetsch, [Biotec Dresden](https://tu-dresden.de/cm
 # Bio-image analysis, biostatistics, programming and machine learning for computational biology
 This repository contains training resources for Python beginners who want to dive into image processing with Python. 
 It specifically aims for students and scientists working with microscopy images in the life sciences.
-We start with python basics, dive into descriptive statistics for working with measurements and [matplotlib](https://matplotlib.org/) for plotting results.
-Furthermore, we will process images with [numpy](https://numpy.org), [scipy](https://www.scipy.org/), [scikit-image](https://scikit-image.org/) and [clEsperanto](https://github.com/clEsperanto/pyclesperanto_prototype).
-We will explore [napari](https://napari.org) and [Fiji](https://fiji.sc) for interactive image data analysis. 
-Finally, we will use [scikit-learn](https://scikit-learn.org/stable/), [CellPose](https://github.com/MouseLand/cellpose) and [StarDist](https://github.com/stardist/stardist) to process images using machine learning techniques.
+We start with Python basics, image processing, dive into descriptive statistics for working with measurements and [matplotlib](https://matplotlib.org/) and [seaborn](https://seaborn.pydata.org/) for plotting results.
+Furthermore, we will process data and images with [numpy](https://numpy.org), [scipy](https://www.scipy.org/), [scikit-image](https://scikit-image.org/) and [clEsperanto](https://github.com/clEsperanto/pyclesperanto_prototype).
+We will explore [napari](https://napari.org) for interactive image data analysis and [scikit-learn](https://scikit-learn.org/) and [apoc](https://github.com/haesleinhuepf/apoc) for processing image using machine learning.
 
-The material will develop between April and July 2022. The materials from former years are linked below.
+The material will develop between April and July 2023. The materials from former years are linked below.
 
 ## How to use this material
 You can browse the material online for taking a quick look.
@@ -35,93 +34,43 @@ If you have any questions, please use the anonymous etherpad (see email) or open
 
 ## Contents
 
-* Introduction (2022-Apr-05)
-  * [Introduction to bio-image analysis, programming, bio-statistics and machine learning (slides)](01_python_basics/Introduction_QBIA.pdf)
-  * [Trailer](01_python_basics/00_trailer.ipynb)
-  * [Setting up your computer with conda](https://biapol.github.io/blog/johannes_mueller/anaconda_getting_started/)
-  * [Our first jupyter notebook](01_python_basics/01_our_first_juptyer_notebook.ipynb)
-  * [Math in Python](01_python_basics/02_Math_in_python.ipynb)
-  * [Basic types in Python](01_python_basics/03_Basic_types.ipynb)
-  
-* Python data structures (2022-Apr-12)
-  * [Python data structures (slides)](02_python_data_structures/Python_data_structures.pdf)
-  * [Don't try this at home](02_python_data_structures/04_Dont_try_this_at_home.ipynb)
-  * [Lists and tuples](02_python_data_structures/05_lists_tuples.ipynb)
-  * [Cropping lists](02_python_data_structures/05a_cropping_lists.ipynb)
-  * [Sorting lists](02_python_data_structures/05b_sorting_lists.ipynb)
-  * [Dictionaries and tables](02_python_data_structures/06_Dictionaries_and_tables.ipynb)
-  * [Masking](02_python_data_structures/08_masking.ipynb)
-  * [Loading and visualizing images](02_python_data_structures/09_Working_with_images.ipynb)
-  * [Cropping images](02_python_data_structures/10_Cropping_images.ipynb)
+* Introduction + Python Programming I (2022-Apr-04)
+  * [Introduction to bio-image analysis, programming, bio-statistics and machine learning (slides)](01_introduction_python_programming/Introduction_QBIA.pdf)
+  * [Setting up your computer with mambaforge](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
+  * [Our first jupyter notebook](01_introduction_python_programming/01_our_first_juptyer_notebook.ipynb)
+  * [Math in Python](01_introduction_python_programming/02_Math_in_python.ipynb)
+  * [Basic types in Python](01_introduction_python_programming/03_Basic_types.ipynb)
+  * [Don't try this at home](01_introduction_python_programming/04_Dont_try_this_at_home.ipynb)
+  * [Lists and tuples](01_introduction_python_programming/05_lists_tuples.ipynb)
+  * [Cropping lists](01_introduction_python_programming/05a_cropping_lists.ipynb)
+  * [Sorting lists](01_introduction_python_programming/05b_sorting_lists.ipynb)
+  * [Dictionaries and tables](01_introduction_python_programming/06_Dictionaries_and_tables.ipynb)
 
-* Python algorithms (2022-Apr-19)
-  * [Python algorithms (slides)](03_python_algorithms/Python_algorithms.pdf)
-  * [Conditions](03_python_algorithms/07_Conditions.ipynb)
-  * [Loops](03_python_algorithms/08_loops.ipynb)
-  * [Custom functions](03_python_algorithms/09_custom_functions.ipynb)
-  * [Custom libraries](03_python_algorithms/10_custom_libraries.ipynb)
-  
-* Introduction to image visualization, processing and filtering (2022-Apr-26)
-  * [Image Processing and Filtering (slides)](04_image_processing_and_filters/Image_Processing_and_Filtering.pdf)
-  * [Napari Introduction](04_image_processing_and_filters/1_Napari_introduction.ipynb)
-  * [Histogram](04_image_processing_and_filters/2_Histogram.ipynb)
-  * [Brightness and Contrast](04_image_processing_and_filters/3_Brightness_and_Contrast.ipynb)
-  * [Binarization](04_image_processing_and_filters/4_Binarization.ipynb)
-  * [Image Filters](04_image_processing_and_filters/5_Image_Filters.ipynb)
-  * [Morphological Operations](04_image_processing_and_filters/6_Morphological_operations.ipynb)
-
-
-* Quantitative image analysis (2022-May-03)
-  * [Thresholding and feature extraction (slides)](05_feature_extraction/Feature_extraction.pdf)
-  * [Plotting data with Python](05_feature_extraction/00_plotting_in_python.ipynb)
-  * [Thresholding and plotting](05_feature_extraction/01_thresholding.ipynb)
-  * [Thresholding and noise](05_feature_extraction/02_thresholding_and_noise.ipynb)
-  * [Otsu thresholding](05_feature_extraction/03_Otsu_threshold.ipynb)
-  * [Feature extraction](05_feature_extraction/04_feature_extraction.ipynb)
-  * [Feature extraction and thresholds](05_feature_extraction/05_feature_extraction_and_thresholds.ipynb)
-* Excursion to the Napari Workshop at the Images to Knowledge (I2K) conference 2022 (2022-May-10)
-  * [Workshop website](https://github.com/haesleinhuepf/I2K2022-napari-workshop) 
-* Introduction to Biostatistics (2022-May-17)
-  * [Confidence intervals](06_biostatistics_introduction/stats1.ipynb)
-* Descriptive statistics + method comparison (2022-May-24)
-  * [Descriptive statistics (slides)](07_descriptive_statistics/Descriptive_Statistics.pdf)
-  * [Basic descriptive statistics](07_descriptive_statistics/01_basic_descriptive_statistics.ipynb)
-  * [Working with Pandas DataFrames](07_descriptive_statistics/02_introduction_dataframes.ipynb)
-  * [Descriptive statistics of labeled images](07_descriptive_statistics/03_descriptive_statistics_label_images.ipynb)
-  * [Bland-Altman analysis](07_descriptive_statistics/04_Bland_altman_analysis.ipynb)
-  * [Preparation for next session: Install devbio-napari](https://www.napari-hub.org/plugins/devbio-napari#installation)
-* Machine learning for bio-image analysis (2022-May-31)
-  * [Machine Learning for Pixel and Object Classification (slides)](08_machine_learning/Machine_Learning_for_BioImage_Analysis.pdf)
-  * [Scikit-learn for object classification](08_machine_learning/01_supervised_machine_learning.ipynb)
-  * [Scikit-learn based Pixel classification](08_machine_learning/02_scikit_learn_random_forest_pixel_classifier.ipynb)
-  * [Accelerate Pixel and Object Classification](08_machine_learning/03_apoc_object_segmenter.ipynb)
-* break
-* Hypothesis testing (2022-Jun-14)
-  * [Distributions (slides)](09_hypothesis_testing/Stats2.pdf)
-  * [Hypothesis testing (slides)](09_hypothesis_testing/Stats3.pdf)
-  * [Non-parametric testing](09_hypothesis_testing/stats4.ipynb)
-* Multiple comparisons and correlations (2022-Jun-21)
-  * [Multiple comparisons and Correlation (slides)](10_correlation_dim_reduction/Stats5.pdf)
-  * [Multiple comparisons and Correlation](10_correlation_dim_reduction/Correlations.ipynb)
-* Big data, clustering, dimensionality reduction (2022-Jun-28)
-  * [Dimensionality reduction (slides)](10_correlation_dim_reduction/Stats_dimred.pdf)
-  * [PCA](10_correlation_dim_reduction/PCA.ipynb)
-* Deep learning (2022-Jul-5)
-  * [Image Restoration](11_deep_learning/01-Image-Restoration.ipynb)
-  * [Image Segmentation](11_deep_learning/02-Image-Semantic-Segmentation.ipynb)
-* Summary / exam preparation (2022-Jul-12)
-  * [Programming / Bio-image Analysis / Machine Learning](12_summary/BIA_Summary_2022.pdf)
+* Python programming II (2022-Apr-11)
+* Image Processing (2022-Apr-18)
+* Image Segmentation + Quality Assurance (2022-Apr-25)
+* Feature extraction (2022-May-2)
+* Introduction to Biostatistics (2022-May-9)
+* Descriptive Statistics (2022-May-16)
+* Hypothesis Testing (2022-May-23)
+* Introduction to Machine Learning + Random Forest Classifiers  (2022-Jun-6)
+* Unsupervised Machine Learning  (2022-Jun-13)
+* Supervised Machine Learning / Deep Learning (2022-Jun-20)
+* Introduction to Genomic Data (2022-Jun-27)
+* Multimodal Machine Learning (2022-Jul-4)
+* Summary, exam preparation (2022-Jul-11)
 
 ## See also
 
 ### Former & future lecture materials
+* [Bio-image Analysis, programming, bio-statistics and machine learning 2022](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/tree/035bb75d90444f14ef21876bf3fdf9e53417f87b)
 * [Bio-image Analysis, programming, bio-statistics and machine learning 2021](https://github.com/BiAPoL/Bio-image_Analysis_with_Python/tree/a62070dee408814cee4258758f5187f135774519)
 * [Bio-image Analysis, programming, bio-statistics and machine learning 2020](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis_2020)
 * [Bio-image Analysis, ImageJ Macro programming 2019](https://git.mpi-cbg.de/rhaase/lecture_applied_bioimage_analysis)
 * [Bio-image Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)
 
 ### Image Analysis
-* [Analyzing fluorescence microscopy images with ImageJ by Pete Bankhead](https://petebankhead.gitbooks.io/imagej-intro/content/)
+* [Introduction to Bioimage Analysis](https://bioimagebook.github.io/)
 * [Basics of Image Processing and Analysis by Kota Miura](https://github.com/miura/ij_textbook1/raw/76b51338e1f006c580b6f0f5cfc48fe02fba38d7/CMCIBasicCourse201102Bib.pdf)
 * [Classic ImageJ training resources](https://imagej.nih.gov/ij/docs/examples/index.html)
 * [Bioimage Data Analysis Workflows edited by Kota Miura and Nataša Sladoje](https://link.springer.com/book/10.1007%2F978-3-030-22386-1)
