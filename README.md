@@ -30,7 +30,7 @@ If you have Python basics knowledge already, test yourself by doing these exerci
 
 ## Contents
 
-* Introduction + Python Programming I (2022-Apr-04)
+* Introduction + Python Programming I (2023-Apr-04)
   * [Introduction to bio-image analysis, programming, bio-statistics and machine learning (slides)](01_introduction_python_programming/Introduction_QBIA.pdf)
   * [Setting up your computer with mambaforge](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html)
   * [Our first jupyter notebook](01_introduction_python_programming/01_our_first_juptyer_notebook.ipynb)
@@ -42,19 +42,19 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [Sorting lists](01_introduction_python_programming/05b_sorting_lists.ipynb)
   * [Dictionaries and tables](01_introduction_python_programming/06_Dictionaries_and_tables.ipynb)
 
-* Python programming II (2022-Apr-11)
-* Image Processing (2022-Apr-18)
-* Image Segmentation + Quality Assurance (2022-Apr-25)
-* Feature extraction (2022-May-2)
-* Introduction to Biostatistics (2022-May-9)
-* Descriptive Statistics (2022-May-16)
-* Hypothesis Testing (2022-May-23)
-* Introduction to Machine Learning + Random Forest Classifiers  (2022-Jun-6)
-* Unsupervised Machine Learning  (2022-Jun-13)
-* Supervised Machine Learning / Deep Learning (2022-Jun-20)
-* Introduction to Genomic Data (2022-Jun-27)
-* Multimodal Machine Learning (2022-Jul-4)
-* Summary, exam preparation (2022-Jul-11)
+* Python programming II (2023-Apr-11)
+* Image Processing (2023-Apr-18)
+* Image Segmentation + Quality Assurance (2023-Apr-25)
+* Feature extraction (2023-May-2)
+* Introduction to Biostatistics (2023-May-9)
+* Descriptive Statistics (2023-May-16)
+* Hypothesis Testing (2023-May-23)
+* Introduction to Machine Learning + Random Forest Classifiers  (2023-Jun-6)
+* Unsupervised Machine Learning  (2023-Jun-13)
+* Supervised Machine Learning / Deep Learning (2023-Jun-20)
+* Introduction to Genomic Data (2023-Jun-27)
+* Multimodal Machine Learning (2023-Jul-4)
+* Summary, exam preparation (2023-Jul-11)
 
 ## See also
 
