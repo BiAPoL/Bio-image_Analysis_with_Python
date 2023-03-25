@@ -26,11 +26,7 @@ In order to execute code and do the exercises, you need to install conda, which 
 
 This course explains everything in very detail. 
 Every lesson ends with an exercise and it is recommended to do it before moving on to the next lesson. 
-If you have python basics knowledge already, test yourself by doing these exercises before starting with an advanced lesson.
-
-## Feedback and support
-
-If you have any questions, please use the anonymous etherpad (see email) or open a thread on [image.sc](https://image.sc), put a link to the lesson or exercise you want to ask a question about and tag @haesleinhuepf.
+If you have Python basics knowledge already, test yourself by doing these exercises before starting with an advanced lesson.
 
 ## Contents
 
