@@ -43,6 +43,14 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [Dictionaries and tables](01_introduction_python_programming/06_Dictionaries_and_tables.ipynb)
 
 * Python programming II (2023-Apr-11)
+  * Good practice in scientific programming & Python Algorithms (slides)
+  * [Recap exercises](02_python_algorithms/00_recap)
+  * [Conditions](02_python_algorithms/07_Conditions)
+  * [Loops](02_python_algorithms/08_loops)
+  * [Custom functions](02_python_algorithms/09_custom_functions)
+  * [Imports](02_python_algorithms/10_Import_packages)
+  * [Custom modules](02_python_algorithms/11_custom_libraries)
+  * [Downloading a file from owncloud](02_python_algorithms/12_owncloud)
 * Image Processing (2023-Apr-18)
 * Image Segmentation + Quality Assurance (2023-Apr-25)
 * Feature extraction (2023-May-2)
@@ -87,6 +95,7 @@ Contributions to this repository are welcome! If you see typos, bugs or have gen
 If you would like to add additional lessons or want to suggest improvements to existing ones, [pull-requests](https://github.com/BiA-PoL/Bio-image_Analysis_with_Python_course/pulls) are very welcome!
 
 ## Acknowledgements
-[Robert Haase](https://twitter.com/haesleinhuepf/) was supported by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC2068 - Cluster of Excellence Physics of Life of TU Dresden.
+Some of the materials in this repository originate from the [BioImageAnalysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html), were written by Robert Haase Guillaume Witz and were licensed [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+[Robert Haase](https://twitter.com/haesleinhuepf/) acknowledges funding by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence Strategy – EXC2068 - Cluster of Excellence Physics of Life of TU Dresden.
 
 [Imprint](https://tu-dresden.de/impressum)
