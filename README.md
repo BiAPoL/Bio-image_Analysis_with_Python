@@ -43,10 +43,11 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [Dictionaries and tables](01_introduction_python_programming/06_Dictionaries_and_tables.ipynb)
 
 * Python programming II (2023-Apr-11)
-  * Good practice in scientific programming & Python Algorithms (slides)
+  * [Good practice in scientific programming & Python Algorithms (slides)](02_python_algorithms/Good_Practice_and_Python_algorithms.pdf)
   * [Recap exercises](02_python_algorithms/00_recap.ipynb)
   * [Conditions](02_python_algorithms/07_Conditions.ipynb)
   * [Loops](02_python_algorithms/08_loops.ipynb)
+  * [List files in a folder](02_python_algorithms/08a_list_files_in_a_folder.ipynb)
   * [Custom functions](02_python_algorithms/09_custom_functions.ipynb)
   * [Imports](02_python_algorithms/10_Import_packages.ipynb)
   * [Custom modules](02_python_algorithms/11_custom_libraries.ipynb)
