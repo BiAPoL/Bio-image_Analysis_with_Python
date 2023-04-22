@@ -67,9 +67,9 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   
 * Image Segmentation + Quality Assurance (2023-Apr-25)
   * [Image Segmentation, Surface Reconstruction and Quality assurance (slides)](04_image_segmentation/Image_segmentation.pdf)
-  * [Terminology](04_image_segmentation/06_terminology.ipynb)
-  * [Image processing workflow design using Napari](04_image_segmentation/napari-assistant.md)
-  * [Generating Jupyter Notebooks](04_image_segmentation/notebook_export.md)
+  * [Terminology](04_image_segmentation/05_terminology.ipynb)
+  * [Image processing workflow design using Napari](04_image_segmentation/06_napari-assistant.md)
+  * [Generating Jupyter Notebooks](04_image_segmentation/07_notebook_export.md)
   * [Gauss-Otsu-Labeling](04_image_segmentation/09_gauss_otsu_labeling.ipynb)
   * [Voronoi-Otsu-Labeling](04_image_segmentation/11_voronoi_otsu_labeling.ipynb)
   * [3D Segmentation](04_image_segmentation/12_Segmentation_3D.ipynb)
