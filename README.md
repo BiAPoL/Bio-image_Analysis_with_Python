@@ -74,9 +74,9 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [Voronoi-Otsu-Labeling](04_image_segmentation/11_voronoi_otsu_labeling.ipynb)
   * [3D Segmentation](04_image_segmentation/12_Segmentation_3D.ipynb)
   * [Watershed-based segmentation](04_image_segmentation/13_watershed.ipynb)
-  * [Membrane-based cell segmentation](04_image_segmentation/14_prevent_leaking_labels.ipynb)
   * [Morphological operations on label images](04_image_segmentation/15_smooth_labels.ipynb)
   * [Segmentation Quality Estimation](04_image_segmentation/17_segmentation_quality_estimation.ipynb)
+  * [Surface reconstruction](04_image_segmentation/18_surface_reconstruction.ipynb)
   * [Quality Assurance of Segmentation Results (Focal Plane blog post by Mara Lampert)](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 
 * Feature extraction (2023-May-2)
