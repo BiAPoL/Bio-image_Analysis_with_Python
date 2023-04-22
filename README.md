@@ -77,7 +77,7 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [Morphological operations on label images](04_image_segmentation/15_smooth_labels.ipynb)
   * [Segmentation Quality Estimation](04_image_segmentation/17_segmentation_quality_estimation.ipynb)
   * [Surface reconstruction](04_image_segmentation/18_surface_reconstruction.ipynb)
-  * [Quality Assurance of Segmentation Results (Focal Plane blog post by Mara Lampert)](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
+  * [Quality Assurance of Segmentation Results (Focalplane blog post by Mara Lampert)](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 
 * Feature extraction (2023-May-2)
 * Introduction to Biostatistics (2023-May-9)
