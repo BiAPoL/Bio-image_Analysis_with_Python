@@ -66,7 +66,7 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [Introduction to Napari](03_image_processing/09_Napari_introduction.ipynb)
   
 * Image Segmentation + Quality Assurance (2023-Apr-25)
-  * Image Segmentation, Surface Reconstruction and Quality assurance (slices)
+  * [Image Segmentation, Surface Reconstruction and Quality assurance (slides)](04_image_segmentation/Image_segmentation.pdf)
   * [Terminology](04_image_segmentation/06_terminology.ipynb)
   * [Image processing workflow design using Napari](04_image_segmentation/napari-assistant.md)
   * [Generating Jupyter Notebooks](04_image_segmentation/notebook_export.md)
