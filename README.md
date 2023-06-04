@@ -80,10 +80,30 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [Quality Assurance of Segmentation Results (Focalplane blog post by Mara Lampert)](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 
 * Feature extraction (2023-May-2)
+  * [Feature extration (slides)](05_feature_extraction/05_feature_extraction_slides.pdf)
+  * [Intensity and size](05_feature_extraction/00_intensity_and_size.ipynb)
+  * [Perimeter calculation](05_feature_extraction/01_perimeter_calculation.ipynb)
+  * [Sphericity and solidity](05_feature_extraction/02_sphericity_and_solidity.ipynb)
+  
 * Introduction to Biostatistics (2023-May-9)
+  * [Slides](06_biostatistics_introduction/06_biostatistics_introduction_slides_wo_pictures.pdf)
+  * [Exercises](06_biostatistics_introduction/2023_stats1.ipynb)
+  
 * Descriptive Statistics (2023-May-16)
+  * [Slides](07_descriptive_statistics/Stats2.pdf)
+  * [Exercises](07_descriptive_statistics/2023_stats2.ipynb)
+  
 * Hypothesis Testing (2023-May-23)
+  * [Slides](08_hypothesis_testing/Stats3.pdf)
+  * [Exercises I](08_hypothesis_testing/2023_stats3.ipynb)
+  * [Exercises II](08_hypothesis_testing/2023_stats4.ipynb)
+  
 * Introduction to Machine Learning + Random Forest Classifiers  (2023-Jun-6)
+  * [Machine learning for Pixel and Object Classification (slides)](09_machine_learning/Machine_Learning_for_BioImage_Analysis.pdf)
+  * [Supervised machine learning](09_machine_learning/01_supervised_machine_learning.ipynb)
+  * [Pixel classification using scikit-learn](09_machine_learning/02_scikit_learn_random_forest_pixel_classifier.ipynb)
+  * [Pixel and object classification using APOC](09_machine_learning/03_apoc_object_segmenter.ipynb)
+  
 * Unsupervised Machine Learning  (2023-Jun-13)
 * Supervised Machine Learning / Deep Learning (2023-Jun-20)
 * Introduction to Genomic Data (2023-Jun-27)
