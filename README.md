@@ -100,6 +100,8 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   
 * Introduction to Machine Learning + Random Forest Classifiers  (2023-Jun-6)
   * [Machine learning for Pixel and Object Classification (slides)](09_machine_learning/Machine_Learning_for_BioImage_Analysis.pdf)
+  * [Interactive pixel classification using Napari](09_machine_learning/interactive_pixel_classification/readme.md)  
+  * [Interactive object classification using Napari](09_machine_learning/interactive_object_classification/readme.md)
   * [Supervised machine learning](09_machine_learning/01_supervised_machine_learning.ipynb)
   * [Pixel classification using scikit-learn](09_machine_learning/02_scikit_learn_random_forest_pixel_classifier.ipynb)
   * [Pixel and object classification using APOC](09_machine_learning/03_apoc_object_segmenter.ipynb)
