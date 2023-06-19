@@ -107,7 +107,14 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [Pixel and object classification using APOC](09_machine_learning/03_apoc_object_segmenter.ipynb)
   
 * Unsupervised Machine Learning  (2023-Jun-13)
-* Supervised Machine Learning / Deep Learning (2023-Jun-20)
+  * [Machine Learning (slides)](10_machine_learning/13_06_Machine_Learning_wo_Brat.pdf)
+  * [Unsupervised machine learning (Google Colab)](https://colab.research.google.com/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/10_machine_learning/machine_learning.ipynb)
+
+* Supervised Machine Learning / Deep Learning + Large Language Models (2023-Jun-20)
+  * [Deep Learning + Large Language Models for Bio-image Analysis (slides)](11_deep_learning/DL_Generative_AI.pdf)
+  * [StarDist (Google Colab)](https://colab.research.google.com/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/11_deep_learning/stardist.ipynb)
+  * [CellPose (Google Colab)](https://colab.research.google.com/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/11_deep_learning/stardist.ipynb)
+  
 * Introduction to Genomic Data (2023-Jun-27)
 * Multimodal Machine Learning (2023-Jul-4)
 * Summary, exam preparation (2023-Jul-11)
