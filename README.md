@@ -115,9 +115,12 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [StarDist (Google Colab)](https://colab.research.google.com/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/11_deep_learning/stardist.ipynb)
   * [CellPose (Google Colab)](https://colab.research.google.com/github/BiAPoL/Bio-image_Analysis_with_Python/blob/main/11_deep_learning/stardist.ipynb)
   
-* Introduction to Genomic Data (2023-Jun-27)
-* Multimodal Machine Learning (2023-Jul-4)
+* Dimensionality reduction (2023-Jun-27)
+  * [Slides](12_dimensionality_reduction/27_06_Dimensionality_Reduction.pdf)
+  * [PCA, UMAP](12_dimensionality_reduction/PCA_UMAP.ipynb)
+
 * Summary, exam preparation (2023-Jul-11)
+  * [Slides](14_summary/BIA_Summary_2023.pdf)
 
 ## See also
 
