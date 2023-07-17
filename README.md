@@ -120,7 +120,8 @@ If you have Python basics knowledge already, test yourself by doing these exerci
   * [PCA, UMAP](12_dimensionality_reduction/PCA_UMAP.ipynb)
 
 * Summary, exam preparation (2023-Jul-11)
-  * [Slides](14_summary/BIA_Summary_2023.pdf)
+  * [Slides I](14_summary/BIA_Summary_2023.pdf)
+  * [Slides II](14_summary/BIA_Summary_2023_Part2.pdf)
 
 ## See also
 
